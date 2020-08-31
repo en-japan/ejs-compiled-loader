@@ -1,5 +1,5 @@
 {
-  "name": "@piuccio/ejs-compiled-loader",
+  "name": "@en-japan-air/ejs-compiled-loader",
   "version": "3.0.0",
   "description": "EJS webpack loader (without frontend dependencies)",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/piuccio/ejs-compiled-loader.git"
+    "url": "git://github.com/en-japan/ejs-compiled-loader.git"
   },
   "keywords": [
     "ejs",
@@ -20,9 +20,9 @@
   "author": "Vasily Ostanin <bazilio91@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/piuccio/ejs-compiled-loader/issues"
+    "url": "https://github.com/en-japan/ejs-compiled-loader/issues"
   },
-  "homepage": "https://github.com/piuccio/ejs-compiled-loader",
+  "homepage": "https://github.com/en-japan/ejs-compiled-loader",
   "dependencies": {
     "html-minifier": "^3",
     "loader-utils": "^1.1.0",
